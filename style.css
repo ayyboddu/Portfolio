@@ -376,7 +376,7 @@ h2, h3, p, li {
     display: flex;
     justify-content: center;
     overflow-x: hidden;
-    padding-top: 100px;   
+    padding-top: 10px;   
     gap: 50px;
 }
 
