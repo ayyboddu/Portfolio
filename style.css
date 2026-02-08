@@ -376,14 +376,15 @@ h2, h3, p, li {
     display: flex;
     justify-content: center;
     overflow-x: hidden;
-    padding-top: 50px;   
-    gap: 50px;
+    padding-top: 45px;   
+    gap: 40px;
 }
 
 .experience .work{
-    width:50% ;
+    width:50%;
     padding: 20px;
-    padding-left: 65px;
+    padding-left: 40px;
+    padding-bottom: 10px;
 }
 
 .experience .education{
